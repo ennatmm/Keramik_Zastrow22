@@ -1,0 +1,6 @@
+ID;Zchng;Fundnr;Anzahl;Dm_min;DM_max;Proz_erhalt;Farb_a1;Farb_a2;Farb_a3;Farb_i1;Farb_i2;Farb_i3;Farb_kern;Verzierung_a1;Verzierung_i1;Mag_min;Mag_max;BZCHN;Randform;Anmerk;Typ;;joints;Zenodo
+1;30I;1230367;2;9;;2;2;8;9;2;8;9;5;;;0,2;0,25;1;;;;;;https://zenodo.org/record/2529428
+2;40I;1230478;1;;;80;6;1;;1;;;5;3;;0,05;0,3;;T6;;40;;;
+3;42X;1230348;1;22;;18;4;;;4;;;5;3;;;;;;;70;;joint zu 1230346;
+4;65I;1230392;1;21;;52;4;;;4;;;5;3;3;;0,3;1;;BZCHN innen;70;;;
+5;67VIII;1230282;1;21;;15;4;;;4;;;5;;;;0,25;1;;;;;;
