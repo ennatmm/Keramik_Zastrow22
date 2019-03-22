@@ -1,0 +1,52 @@
+Dateiname - Znr_30_1230.tif
+Dateiformat - TIFF
+Hardware - Scanner Flachbett Epson
+Software - Adobe Photoshop CS3 Windows
+Betriebssystem - Windows
+Erstellungsdatum - 2012:01:31 10:16:25
+Aktualisierung - 2018:12:30
+
+ImageWidth - 3509
+ImageLength - 5100
+BitsPerSample -
+Compression - 1 (None)
+PhotometricInterpretation - 1
+StripOffset - 20708
+Orientation - Top left
+SamplesPerPixel - 1
+RowsPerStrip - 5100
+StripByteCount - 17895900
+XResolution - 300.00
+YResolution - 300.00
+ResolutionUnit - Inch
+ExifOffset - 17916552
+InterColorProfile - 119738
+ColorSpace - Uncalibrated/Unknown (-1)
+
+Beschreibung: Fundzeichnungen
+
+Keramikfunde der Ausgrabung des Siedlungsplatzes Groß Zastrow 18/20 im Vorfeld des Baues der Autobahn A20 2002-2003.
+
+Das Blatt trägt die Nummer 30, auf dem Blatt sind einzelne Gegenstände mit fortlaufenden lateinischen Nummern bezeichnet (z.B. 30.I, 30.II). Die einzelnen tragen eine Nummer, die sich aus einem Teil der Inventarnummer (2002/1230,###) und einer fortlaufenden Nummer pro Inventarnummer zusammensetzt. Achtung! nur die Inventarnummer 2002/1230,### ist in die Grabungsdokumentation aufgenommen worden. Die fortlaufende Nummerierung 2002/1230,###.## ist nur während der Aufnahme intern angewandt worden.
+
+Die Zeichnungen wurden im Zuge der Auswertung der Grabung von A. Klammt angefertigt. Dazu wurde das Profil von Rand- und Bodenscherben mit Hilfe eines Profilkamms abgenommen. Öffnungsdurchmesser bzw. Durchmesser der Standfläche und die prozentuale Erhaltung (z.B. 50% der Mündung des Gefäßes) wurden mittels einer Polarkoordinatenscheibe bestimmt. Die Wandstärke der Scherben wurde mit einer Schieblehre abgenommen. Mehrheitlich wurde zudem die Aufsicht gezeichnet. Bei Bodenscherben wurden die Bodenzeichen gezeichnet.
+
+Die Zeichnungen sind auf Transparentpapier im Format DinA3 mit einem Bleistift (Minen 0,3, Stärke H) angefertigt worden. Das Blatt ist mit einem herkömmlichen Flachbettscanner sw-gescannt worden.
+
+Die Funde werden im Landesamt für Kultur und Denkmalpflege Mecklenburg-Vorpommern verwahrt.
+
+
+Keramik Vorpommern Slawenzeitlich Groß Zastrow Zeichnung 
+
+A. Klammt, Groß Zastrow, Lkr. Demmin. In: Kurze Fundberichte 2003. Bodendenkmalpflege in Mecklenburg-Vorpommern, Jahrbuch 2003-51 (2004), 563
+
+Keramik http://archwort.dainst.org/de/term/2183
+Groß Zastrow http://sws.geonames.org/2914813
+Landkreis Demmin http://d-nb.info/gnd/4387630-4
+Spätslawisch http://chronontology.dainst.org/period/A3cCqwREFFIN
+Slawenzeit http://chronontology.dainst.org/period/gNiSSWsweSaA
+Archäologie http://vocab.getty.edu/aat/300054328
+Archäologie https://www.wikidata.org/w/index.php?title=Q23498&oldid=820900406
+Landesamt für Kultur und Denkmalpflege Mecklenburg-Vorpommern http://d-nb.info/gnd/10137095-7
+
+
