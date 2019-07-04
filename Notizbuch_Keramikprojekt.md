@@ -9,6 +9,7 @@
     * die DOI des Zeichenblatts eingetragen
 	* Spalten gelöscht: TYPE URI VOCAB_LABEL LAT LNG PLACE_TYPE	VERIFICATION_STATUS COMMENTS
 	* Tabelle jetzt wie folgt
+	
 |UUID_pealgios | ANCHOR | DOI_parent |	File_parent | Link_child | Name |SAME AS  |SAME AS | 
 |---  |---  |---  |---	|--- |--- |---  |--- |
 |4972dab2-508d-483e-abec-9ebced0bc5c2 |	rect:x=93	y=3648	w=1506	h=611 |	https://doi.org/10.5281/zenodo.2529063 |	Znr_20_1230.tif |	https://recogito.pelagios.org/api/annotation/4972dab2-508d-483e-abec-9ebced0bc5c2.jpg |	ZNR_20_1230_XI |	ZNR_20_1230_XII	
