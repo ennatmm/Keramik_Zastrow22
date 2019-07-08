@@ -1,5 +1,5 @@
 # Notizbuch Keramikprojekt
-## 2019-07-02
+##2019-07-02
 * in Recogito Znr_20_1230.tif annotiert
     * in den Annotationen wie von Rainer erwähnt, als Tags auch "SAME AS ZNR_20_1230_römZiffer" genutzt
     * Theoretisch könnte man also nach entsprechender Aufbereitung als Tripel dann einen Graph daraus machen
@@ -18,3 +18,6 @@
 
 ### Zwischenfazit
 * aktuell müssten die einzelnen Annotationen reproduzierbar sein, wenn man sich Bild von Zendodo zieht und über XY Pixel die Positionen sucht.
+##2019-07-08
+* in recogito Znr_15_1230.tif, Znr_16_1230.tif und Znr_17_1230.tif annotiert
+* Backups angelegt von Annotationen + Metadaten von ZNR_15_1230.tif, ZNR_16_1230.tif, Znr_17_1230.tif, ZNR_20_1230.tif
